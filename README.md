@@ -1,6 +1,6 @@
  
 
- <img src="https://assets.bitdegree.org/online-learning-platforms/storage/media/2018/08/what-is-a-web-developer.jpg" alt="Web Developer Image" />
+ <img src="https://assets.bitdegree.org/online-learning-platforms/storage/media/2018/08/what-is-a-web-developer.jpg" alt="Web Developer Image height: 300px" />
 
   
  <h1 align="center">Hi 👋, I'm Babu Reddy G</h1>
