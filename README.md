@@ -1,6 +1,6 @@
  
 
- <img src="https://assets.bitdegree.org/online-learning-platforms/storage/media/2018/08/what-is-a-web-developer.jpg" alt="Web Developer Image" height="200px" width="100%"/>
+ <img src="https://assets.bitdegree.org/online-learning-platforms/storage/media/2018/08/what-is-a-web-developer.jpg" alt="Web Developer Image" height="400px" width="100%"/>
 
 
   
